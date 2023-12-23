@@ -4,3 +4,4 @@ font/
 test/
 *.zip
 mushaf*.epub
+.DS_Store
