@@ -1,5 +1,6 @@
 build/
 data/
 font/
+test/
 *.zip
 mushaf*.epub
